@@ -1,0 +1,10 @@
+.error {
+  color: red;
+}
+
+.noerror {
+  display: none;
+}
+.active {
+  color: red;
+}
